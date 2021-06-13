@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lunar_Wizards/1.0.0": {
+        "runtime": {
+          "Lunar_Wizards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lunar_Wizards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
