@@ -1,2 +1,2 @@
 # Pusblished-Projects
-My published projects.
+Published version of Lunar Wizards
